@@ -1,4 +1,4 @@
 # repo1
 My first git repository
 <br>
-Author - Pushkar Kumar
+Author - Pushkar Sharma
